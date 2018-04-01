@@ -1,2 +1,2 @@
-# sturdy
+# study
 just for study
